@@ -14,6 +14,9 @@ It calculates and displays:
 - Loops
 - Scanner for input
 
+## Program Output
+![Program Output](https://github.com/SyedaAbihaZaidi/square.matrixs/blob/main/Screenshot_6-3-2026_72823_www.onlinegdb.com.jpeg)
+
 ## Author
 Abiha Zaidi
 
